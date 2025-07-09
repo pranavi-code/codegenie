@@ -1,4 +1,4 @@
-# codegenie
+# CodeGenie
 ✨ CodeGenie - Your AI-Powered Coding Assistant for VS Code ✨
 🚀 Introduction
 Wish coding felt like magic? Meet CodeGenie, your AI-powered companion that transforms coding into a breeze! This VS Code extension generates real-time, intelligent code suggestions, autocompletions, and smart snippets—all powered by DeepSeek-Coder, a cutting-edge AI model trained for code intelligence. Say goodbye to writer's block and hello to effortless coding!
