@@ -1,5 +1,5 @@
-# CodeGenie-G372-PS25
-Repo for CodeGenie PS project
+# CodeGenie
+Repo for CodeGenie project
 
 
 # ✨ CodeGenie - Your AI-Powered Coding Assistant for VS Code ✨
